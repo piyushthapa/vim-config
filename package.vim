@@ -8,4 +8,6 @@ call plug#begin()
   Plug 'elixir-editors/vim-elixir'
   Plug 'cespare/vim-toml'
   Plug 'Chiel92/vim-autoformat'
+  Plug 'vim-airline/vim-airline'
+
 call plug#end()
