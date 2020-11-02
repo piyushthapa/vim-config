@@ -9,5 +9,8 @@ call plug#begin()
   Plug 'cespare/vim-toml'
   Plug 'Chiel92/vim-autoformat'
   Plug 'vim-airline/vim-airline'
+  Plug 'shmup/vim-sql-syntax'
+  Plug 'APZelos/blamer.nvim'
+  Plug 'rust-lang/rust.vim'
 
 call plug#end()

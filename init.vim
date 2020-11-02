@@ -7,3 +7,6 @@ source $NV_DIR/fzf.vim
 source $NV_DIR/elixir.vim
 source $NV_DIR/explorer.vim
 source $NV_DIR/airline.vim
+source $NV_DIR/git.vim
+source $NV_DIR/rust.vim
+
