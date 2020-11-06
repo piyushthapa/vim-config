@@ -12,5 +12,6 @@ call plug#begin()
   Plug 'shmup/vim-sql-syntax'
   Plug 'APZelos/blamer.nvim'
   Plug 'rust-lang/rust.vim'
+  Plug 'mhinz/vim-mix-format'
 
 call plug#end()

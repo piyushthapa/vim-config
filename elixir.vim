@@ -6,3 +6,5 @@ augroup elixir
 	autocmd FileType elixir set shiftwidth=2
 	
 augroup END
+
+let g:mix_format_on_save = 1
