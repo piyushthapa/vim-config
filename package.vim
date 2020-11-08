@@ -13,5 +13,7 @@ call plug#begin()
   Plug 'APZelos/blamer.nvim'
   Plug 'rust-lang/rust.vim'
   Plug 'mhinz/vim-mix-format'
+  Plug 'neomake/neomake'
+  Plug 'neovimhaskell/haskell-vim'
 
 call plug#end()
