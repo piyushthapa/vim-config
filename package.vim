@@ -15,5 +15,6 @@ call plug#begin()
   Plug 'mhinz/vim-mix-format'
   Plug 'neomake/neomake'
   Plug 'neovimhaskell/haskell-vim'
+  Plug 'sainnhe/sonokai'
 
 call plug#end()
