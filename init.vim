@@ -11,3 +11,4 @@ source $NV_DIR/git.vim
 source $NV_DIR/rust.vim
 source $NV_DIR/haskell.vim
 source $NV_DIR/svelte.vim
+source $NV_DIR/javascript.vim
