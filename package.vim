@@ -16,5 +16,8 @@ call plug#begin()
   Plug 'neomake/neomake'
   Plug 'neovimhaskell/haskell-vim'
   Plug 'sainnhe/sonokai'
+  Plug 'evanleck/vim-svelte'
+  Plug 'pangloss/vim-javascript'
+  Plug 'HerringtonDarkholme/yats.vim'
 
 call plug#end()
