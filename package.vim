@@ -19,5 +19,6 @@ call plug#begin()
   Plug 'evanleck/vim-svelte'
   Plug 'pangloss/vim-javascript'
   Plug 'HerringtonDarkholme/yats.vim'
+  Plug 'sainnhe/everforest'
 
 call plug#end()
