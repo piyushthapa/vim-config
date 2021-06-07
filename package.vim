@@ -20,5 +20,5 @@ call plug#begin()
   Plug 'pangloss/vim-javascript'
   Plug 'HerringtonDarkholme/yats.vim'
   Plug 'sainnhe/everforest'
-
+  Plug 'tpope/vim-fugitive'
 call plug#end()
