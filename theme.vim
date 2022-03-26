@@ -12,14 +12,14 @@ let g:sonokai_style = 'andromeda'
 
 
 " Gruvbox Theme config
-" let g:gruvbox_italic = 1
-" let g:gruvbox_contrast_dark = 'soft'
+let g:gruvbox_italic = 1
+let g:gruvbox_contrast_dark = 'soft'
 
 
 set termguicolors
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
-colorscheme one
+colorscheme gruvbox
 set background=dark
 
 " Setup IndentLine

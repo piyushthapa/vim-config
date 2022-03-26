@@ -21,4 +21,5 @@ call plug#begin()
   Plug 'HerringtonDarkholme/yats.vim'
   Plug 'sainnhe/everforest'
   Plug 'tpope/vim-fugitive'
+  Plug 'morhetz/gruvbox'
 call plug#end()
