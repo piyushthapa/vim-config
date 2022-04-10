@@ -1,14 +1,14 @@
 " Sourcing external vim files
 
-source  $NV_DIR/package.vim
-source  $NV_DIR/theme.vim
-source  $NV_DIR/common.vim
-source  $NV_DIR/fzf.vim
-source  $NV_DIR/elixir.vim
-source  $NV_DIR/explorer.vim
-source  $NV_DIR/airline.vim
-source  $NV_DIR/git.vim
-source  $NV_DIR/rust.vim
-source  $NV_DIR/haskell.vim
-source $NV_DIR/svelte.vim
-source $NV_DIR/javascript.vim
+source  ~/.config/nvim/package.vim
+source  ~/.config/nvim/theme.vim
+source  ~/.config/nvim/common.vim
+source  ~/.config/nvim/fzf.vim
+source  ~/.config/nvim/elixir.vim
+source  ~/.config/nvim/explorer.vim
+source  ~/.config/nvim/airline.vim
+source  ~/.config/nvim/git.vim
+source  ~/.config/nvim/rust.vim
+source  ~/.config/nvim/haskell.vim
+source 	~/.config/nvim/svelte.vim
+source 	~/.config/nvim/javascript.vim

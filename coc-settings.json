@@ -1,6 +1,7 @@
 {
   "explorer.width": 30,
   "explorer.icon.enableNerdfont": true,
+  "elixirLS.dialyzerEnabled": false,
   "languageserver": {
      "haskell": {
        "command": "haskell-language-server-wrapper",
